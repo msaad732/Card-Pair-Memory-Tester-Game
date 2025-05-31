@@ -39,4 +39,4 @@ This project is a simple **Memory Matching Game** written in **x86 Assembly** us
 
 - Ensure valid inputs (0–7) to avoid unexpected behavior.
 - Selecting already revealed cards triggers a retry message.
-- Current implementation does not yet prevent selecting the **same card twice** – feel free to contribute and improve!
+- Feel free to contribute and improve!
